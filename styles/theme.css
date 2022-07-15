@@ -1,0 +1,57 @@
+.theme-l6 {color:#999999 !important; background-color:#fff !important}
+.theme-l5 {color:#000 !important; background-color:#f0f0f0 !important}
+.theme-l4 {color:#000 !important; background-color:#cccccc !important}
+.theme-l3 {color:#fff !important; background-color:#999999 !important}
+.theme-l2 {color:#fff !important; background-color:#666666 !important}
+.theme-l1 {color:#fff !important; background-color:#333333 !important}
+.theme-l0 {color:#fff !important; background-color:#000000 !important}
+
+.theme-green {color:#f0f0f0 !important; background-color:#009688 !important}
+.theme-light {color:#000 !important; background-color:#fff !important}
+.theme-dark {color:#fff !important; background-color:#000000 !important}
+.theme-action {color:#009688 !important; background-color:#fff !important}
+.theme {color:#fff !important; background-color:#000000 !important}
+.text-theme {color:#000000 !important}
+
+
+.border-theme {border-color:#000000 !important}
+
+.hover-theme:hover {color:#fff !important; background-color:#000000 !important}
+.hover-text-theme:hover {color:#000000 !important}
+.hover-border-theme:hover {border-color:#000000 !important}
+
+
+.active-theme:hover {color:#00d5c0 !important; background-color:#000 !important}
+.active-theme-reverse:hover{color:#000000 !important; background-color:#00d5c0 !important}
+.active-theme-white:hover{color:#000 !important; background-color:#fff !important}
+.active-text-theme:hover {color:#000000 !important}
+.active-border-theme:hover {border-color:#000000 !important}
+
+.shadow{
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+}
+.border{
+    border: solid 1px lightgrey;
+}
+.border-b{
+    border-bottom: solid 1px lightgrey;
+}
+.xlarge{
+    font-size: x-large !important;
+}
+.large{
+    font-size: large !important;
+}
+
+.small{
+    font-size: small !important;
+}
+.bold{
+    font-weight: bold;
+}
+.center{
+    text-align:center;
+}
+.centerConteiner{
+    display: flex; align-items: center;justify-content: center;flex-wrap: wrap;
+}
